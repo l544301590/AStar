@@ -65,7 +65,6 @@ class Map:
         self.ed = edi, edj
 
 
-
 if __name__ == '__main__':
 
     # 0: space(^); 1: obstacle(#); 2: start(@); 3: end(@); 4: path(.)
